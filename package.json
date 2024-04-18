@@ -1,6 +1,6 @@
 {
   "name": "qr-code-component-main",
-  "source": "./src/index.html",
+  "source": "./index.html",
   "homepage": "https://kinqbert.github.io/qr-code-component",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.12.0",
