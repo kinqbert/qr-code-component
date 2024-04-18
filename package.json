@@ -1,0 +1,12 @@
+{
+  "name": "qr-code-component-main",
+  "source": "./src/index.html",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.12.0",
+    "parcel": "^2.12.0"
+  },
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  }
+}
