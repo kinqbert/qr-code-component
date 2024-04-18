@@ -1,3 +1,5 @@
 {
-  "name": "qr-code-component-main"
+  "name": "qr-code-component-main",
+  "source": "./index.html",
+  "homepage": "https://kinqbert.github.io/qr-code-component"
 }
