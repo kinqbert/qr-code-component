@@ -32,6 +32,8 @@ body {
   border-radius: 10px;
   
   font-family: Outfit, Arial, Helvetica, sans-serif;
+
+  box-shadow: 0px 25px 25px 0px rgba(0, 0, 0, 0.05);
 }
 
 .card__code-image {
