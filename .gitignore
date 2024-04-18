@@ -15,6 +15,6 @@
 .DS_Store
 .prettierignore
 
-/parcel-cache
+/.parcel-cache
 /dist
 /node_modules
